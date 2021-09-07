@@ -70,6 +70,7 @@ export class HelloWorld extends LitElement {
         .value="${this.counter}"
         disabled="true"
       />
+      <!--Help-->
     `;
   }
 }
